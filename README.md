@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Fabien, a junior fullstack software engineer based in the Nelson Tasman Region of New Zealand 🇳🇿🏖️
 
-- 👀 I'm currently looking for an internship
+- 👀 I'm currently looking for an internship / job
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning docker
 - 💬 Ask me about anything!
