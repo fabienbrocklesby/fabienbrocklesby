@@ -8,4 +8,3 @@ I'm Fabien, a junior fullstack software engineer based in the Nelson Tasman Regi
 - ⚡ Fun fact: I enjoy to scooter in my spare time!
 
 
-![Fabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabienbrocklesby&theme=dark&show_icons=true)
