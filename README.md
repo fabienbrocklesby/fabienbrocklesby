@@ -1,6 +1,6 @@
 # Fabien Brocklesby
 
-## Freelance Full Stack Developer & Founder of Visioneer
+## Freelance Full Stack Developer
 
 👋 Kia ora! I'm Fabien, a full stack software engineer based in the Nelson Tasman Region of New Zealand 🇳🇿🏖️
 
