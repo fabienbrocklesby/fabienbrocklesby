@@ -1,6 +1,6 @@
 # Fabien Brocklesby
 
-## Freelance Full Stack Developer
+## Full Stack Developer
 
 👋 Kia ora! I'm Fabien, a full stack software engineer based in the Nelson Tasman Region of New Zealand 🇳🇿🏖️
 
@@ -19,7 +19,7 @@
 ### Let's Connect!
 
 - 💬 Ask me about full stack development, business solutions, or tech entrepreneurship
-- 📫 Reach me at: contactme@fabienbrocklesby.com
+- 📫 Reach me at: contact@fabienbrocklesby.com
 - 🌐 Check out my website: https://fabienbrocklesby.com
 ---
 
