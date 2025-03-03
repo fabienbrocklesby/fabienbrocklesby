@@ -7,7 +7,7 @@
 ### About Me
 
 - 🚀 Starting Visioneer, a business specialising in custom business solutions and web development
-- 💼 Freelance developer with a passion for creating innovative, scalable applications
+- 💼 Developer with a passion for creating innovative, scalable applications
 - 🌐 Dedicated to delivering high-quality, tailored solutions for businesses of all sizes
 
 ### What I'm Up To
