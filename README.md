@@ -1,26 +1,31 @@
 # Fabien Brocklesby
 
-## Full Stack Developer
+## Software Engineer • Product Builder • NZ
 
-👋 Kia ora! I'm Fabien, a full stack software engineer based in the Nelson Tasman Region of New Zealand 🇳🇿🏖️
+Kia ora, I design and ship clean, fast, reliable software. I care about first-run experience, robustness at the edges, and keeping stacks lean so teams can move quickly.
 
-### About Me
+### About
+- Builder at heart, product-minded, obsessed with time-to-value and maintainability.
+- Founder of Light Lane (modern laser engraving software), public release now live.
+- Based in Nelson/Christchurch, New Zealand.
 
-- 🚀 Starting Visioneer, a business specialising in custom business solutions and web development
-- 💼 Developer with a passion for creating innovative, scalable applications
-- 🌐 Dedicated to delivering high-quality, tailored solutions for businesses of all sizes
+### What I’m good at
+- Turning vague ideas into shippable, minimal products.
+- Desktop and web apps that feel native and load fast.
+- Integrations, licensing, data flows, and “it just works” operations.
+- Testing strategies that catch edge cases without slowing delivery.
 
-### What I'm Up To
+### Principles
+- Ship small, ship often.
+- Readable > clever.
+- Measure outcomes, not lines of code.
+- Own failures, harden the edges, automate the boring parts.
 
-- 🔭 Currently working on exciting projects that push the boundaries of web technology
-- 🌱 Continuously expanding my skill set to stay at the forefront of the tech industry
-- 🤝 Always open to collaborations and new opportunities
+### Now
+- Growing an early user base, refining onboarding and reliability.
+- Open to short, high-impact build sprints and technical advisories where speed matters.
 
-### Let's Connect!
-
-- 💬 Ask me about full stack development, business solutions, or tech entrepreneurship
-- 📫 Reach me at: contact@fabienbrocklesby.com
-- 🌐 Check out my website: https://fabienbrocklesby.com
----
-
-"Turning visions into reality, one line of code at a time." - Visioneer
+### Contact
+- Email: contact@fabienbrocklesby.com
+-	Website: https://fabienbrocklesby.com
+-	Product: [Light Lane](https://lightlane.app)
