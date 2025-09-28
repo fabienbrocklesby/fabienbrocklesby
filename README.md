@@ -1,5 +1,3 @@
-# Fabien Brocklesby
-
 ## Software Engineer • Product Builder • NZ
 
 Kia ora, I design and ship clean, fast, reliable software. I care about first-run experience, robustness at the edges, and keeping stacks lean so teams can move quickly.
